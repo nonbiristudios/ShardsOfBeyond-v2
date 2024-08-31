@@ -9,23 +9,37 @@
 	]
 ,	"Avenging Force": [
 		{"id": "22993c97-4c0e-4b20-b61e-0765854b1d0c", "index":"2"}
+		,{"id": "ea118e8b-a51b-4fd0-9ebb-45e0eb3a1fdd", "index":"3"}
+		,{"id": "ab240212-1a94-480e-8587-c4b045f6cc83", "index":"0"}
+		,{"id": "e23cb92e-67b8-407f-97b9-2fb3dffa6c7a", "index":"1"}
+		,{"id": "21b8a66c-7151-4179-9a76-80c4f8f76d0f", "index":"2"}
 	]
 ,	"Baby Lamassu": [
 		{"id": "b1e88fda-7d3b-4302-b0b0-4eee0012e193", "index":"1"}
+		,{"id": "675b4038-4ecb-4309-a56b-3f73fb074833", "index":"3"}
+		,{"id": "1bd0a0b3-130f-4bdc-9c15-509e1e9b90fa", "index":"3"}
 	]
 ,	"Blackmarble Gargoyle": [
 		{"id": "a408d92c-6e6e-4d30-93ad-e526a5c9555f", "index":"3"}
+		,{"id": "d68f1443-8bb6-4d68-94e0-2abd9c741c16", "index":"3"}
+		,{"id": "e1a293f6-3472-446e-b70e-7002f09b3c7c", "index":"3"}
 	]
 ,	"Chronosand Sphinx": [
 		{"id": "8c6c5803-34bd-4238-bf4b-5436f269949d", "index":"3"}
+		,{"id": "8cd82af3-98af-4579-a391-4f7b38a030da", "index":"2"}
+		,{"id": "95b04bf6-cd9b-4053-92a1-5231ba065df7", "index":"0"}
 	]
 ,	"Crusader of the Desert Winds": [
 	]
 ,	"Cryptosphinx": [
 		{"id": "250e747b-c7e8-4a5b-a483-65446cd307aa", "index":"2"}
+		,{"id": "95b04bf6-cd9b-4053-92a1-5231ba065df7", "index":"2"}
+		,{"id": "526cec67-13c3-48b9-b1a9-097b1eb420d3", "index":"2"}
 	]
 ,	"Damaged Automaton": [
 		{"id": "3644d9f4-a154-4538-96ea-489d6da10cda", "index":"2"}
+		,{"id": "3b251807-e5b8-4b8d-9143-bc8abc033018", "index":"0"}
+		,{"id": "3b251807-e5b8-4b8d-9143-bc8abc033018", "index":"1"}
 	]
 ,	"Diviner of Fates": [
 		{"id": "9b1cd3ba-f0fb-43df-a5df-aa0555f184e0", "index":"0"}
@@ -38,18 +52,25 @@
 	]
 ,	"Dove of Serenity": [
 		{"id": "bd138556-f391-44ec-ab68-5aa4b5a9f606", "index":"1"}
+		,{"id": "d65c6b1b-db21-491e-899d-20f6d9abe3c1", "index":"1"}
 	]
 ,	"Dream Traveler": [
 		{"id": "1ae58892-c0c7-4cd2-b4f2-61e436a76acb", "index":"0"}
+		,{"id": "768c9afb-3e7b-4ec6-99f0-db80c0855966", "index":"2"}
+		,{"id": "0b71f4e0-7de9-422a-8a44-57281918ce47", "index":"3"}
 	]
 ,	"Embalmed Apophis": [
 		{"id": "13499ec2-9a5a-4595-9ccd-fbcfe0fffeaf", "index":"0"}
+		,{"id": "75b3e3a2-a0e4-4742-8659-7ab7d6fcd85e", "index":"2"}
+		,{"id": "75b3e3a2-a0e4-4742-8659-7ab7d6fcd85e", "index":"3"}
 	]
 ,	"Feline Ushabti": [
 		{"id": "7b73514c-612c-4f7a-b7b0-8d03ff687646", "index":"1"}
 	]
 ,	"Guardian of the Gates": [
 		{"id": "13533eea-4c56-4787-a8d1-5b5de4d2fe40", "index":"0"}
+		,{"id": "c0825e6e-8ebc-405d-bb8f-c7b020086e4b", "index":"3"}
+		,{"id": "1f3b2140-89fd-46e2-9f9c-02afbe8c91f8", "index":"1"}
 	]
 ,	"Guardian Angel": [
 	]
@@ -149,6 +170,7 @@
 ,	"Grenade Apple Dragon #3": [
 		{"id": "c4d3570a-e402-453c-89c3-0ec343f16195", "index":"2"}
 		,{"id": "dc24ed1d-b615-4b1e-b267-7f9c968a5009", "index":"3"}
+		,{"id": "607d3715-7a67-41f3-8adc-52d5a2d49f3d", "index":"3"}
 	]
 ,	"The Embalmer": [
 	]
