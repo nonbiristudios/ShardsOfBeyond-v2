@@ -143,12 +143,18 @@
 ,	"Winged Ushabti": [
 	]
 ,	"Ghostfire Basilisk": [
+		{"id": "1f07f7a9-7dee-4e5f-8dfa-56eb67811678", "index":"1"}
+		,{"id": "f5a139c0-a525-4c1e-bbb2-3223e6e61d34", "index":"1"}
+		,{"id": "5d379442-c2b3-4a53-bf98-52967fbf33ff", "index":"2"}
 	]
 ,	"Yellow Crusader": [
 	]
 ,	"Young Monk": [
 	]
-,	"Fancy Schmancy Byrrd Type": [
+,	"Cartouche Luster": [
+		{"id": "fa7a583a-51b9-43f5-9f36-daa60a265ff8", "index":"3"}
+		,{"id": "b573d44e-0557-4339-97e3-b8d53f088bb2", "index":"2"}
+		,{"id": "3a376b78-f9ae-4d1a-8c49-205760b6d15d", "index":"3"}
 	]
 ,	"Golden Phoenix": [
 	]
@@ -160,6 +166,9 @@
 		{"id": "557ea44c-dc30-4519-93c0-96caf2f97815", "index":"3"}
 	]
 ,	"Bringer of Good News": [
+		{"id": "c566f85c-bca2-4a6a-af88-429b68373805", "index":"1"}
+		,{"id": "8f074377-71a1-4d5f-9d10-01c479d07ccc", "index":"0"}
+		,{"id": "8147c740-16d7-4def-a4f6-8bced1357e9e", "index":"2"}
 	]
 ,	"Thunderswarm Lightning Rider": [
 	]
@@ -167,14 +176,18 @@
 	]
 ,	"Exemplar of Lunar Gleam": [
 	]
-,	"Grenade Apple Dragon #3": [
+,	"Pomegrake": [
 		{"id": "c4d3570a-e402-453c-89c3-0ec343f16195", "index":"2"}
 		,{"id": "dc24ed1d-b615-4b1e-b267-7f9c968a5009", "index":"3"}
 		,{"id": "607d3715-7a67-41f3-8adc-52d5a2d49f3d", "index":"3"}
 	]
 ,	"The Embalmer": [
+		{"id": "3502aca4-3c2d-4b55-b9ef-88af2e7c73f0", "index":"1"}
+		,{"id": "70636fbb-6ca1-461f-8634-ae71c0b1430c", "index":"3"}
 	]
 ,	"Ushabti Carver": [
+		{"id": "7028da84-9831-4d23-ad07-4594391e79ac", "index":"1"}
+		,{"id": "d3cdc07b-ef61-4628-9359-bac5561cb0d5", "index":"2"}
 	]
 ,	"Shattercrown Luminary": [
 	]
@@ -185,6 +198,9 @@
 ,	"Auric Ant Regent": [
 	]
 ,	"Blessing Bestower": [
+		{"id": "0575ffc7-0d1e-4dbd-8930-6db80d75cf66", "index":"1"}
+		,{"id": "f1f5bcbb-0fd2-48bf-ae02-5559442c4175", "index":"0"}
+		,{"id": "d196e34f-0ec6-430c-8497-df7339d2a1b3", "index":"0"}
 	]
 ,	"Obelisk Waypost": [
 	]
@@ -680,9 +696,9 @@
 	]
 ,	"Bastion Architect": [
 	]
-,	"Drägen": [
+,	"Sovereign Spellwyrm": [
 	]
-,	"Mega Ultra Chicken": [
+,	"Crownfire Empress": [
 	]
 ,	"Blue Crusader": [
 	]
@@ -1050,11 +1066,26 @@
 ,	"Caleidoscope Spider": [
 	]
 ,	"Cinderguard Emberblade": [
+		{"id": "1d4aed0b-b3f1-4a68-841a-b6560e29fb45", "index":"1"}
+		,{"id": "ecea684f-75e7-4a2a-8d8c-b31339d7d861", "index":"0"}
+		,{"id": "042c7da6-d2b4-4b4e-9fac-c8a1de048f01", "index":"0"}
+		,{"id": "9be18b40-35c2-40a9-81e0-0d0edb28fc87", "index":"0"}
+		,{"id": "ffc45f5d-17c3-4d3e-936b-870f313b274d", "index":"3"}
+		,{"id": "ffc45f5d-17c3-4d3e-936b-870f313b274d", "index":"1"}
 	]
 ,	"Senatorial Phalanx": [
+		{"id": "a773fda1-8e09-4208-91c9-e509ced2b25d", "index":"0"}
+		,{"id": "c010a863-b47f-48fe-a635-442f668abe87", "index":"0"}
+		,{"id": "ec8bc6ad-ad0e-4de1-8b67-74577084f9b3", "index":"2"}
+		,{"id": "ec8bc6ad-ad0e-4de1-8b67-74577084f9b3", "index":"0"}
+		,{"id": "ec8bc6ad-ad0e-4de1-8b67-74577084f9b3", "index":"3"}
+		,{"id": "4a047b2e-a8c8-4e3b-935a-a0167e827322", "index":"3"}
 	]
 ,	"Ferromancer": [
 		{"id": "a407a34c-2a7a-47d2-858a-c385875cdc0c", "index":"0"}
+		,{"id": "85e96c0b-7f8e-45eb-8f72-4d3e18eded4f", "index":"2"}
+		,{"id": "0b995103-dd4c-42dc-aec0-6590d8d4db84", "index":"3"}
+		,{"id": "cfeb6d61-6de8-4337-8049-cf9ea0ce4b14", "index":"2"}
 	]
 ,	"Frontier Centurion": [
 		{"id": "e9cfddb2-74e8-4821-93ef-db5a57e9c0e6", "index":"1"}
@@ -1077,12 +1108,20 @@
 		,{"id": "74ae0134-7c5f-4b5f-b25f-6d6412423dc0", "index":"1"}
 	]
 ,	"Rustblood": [
+		{"id": "5c5f6b26-162e-4512-81a8-623ad199c9db", "index":"2"}
+		,{"id": "0874622e-ceb7-4298-aa38-4f6bf7fa38ea", "index":"1"}
+		,{"id": "dd9d91c4-8389-4b65-9bba-37f6db63dfe1", "index":"3"}
 	]
 ,	"Fairgrove Dryad": [
 	]
 ,	"Fairy Fountain": [
 	]
 ,	"Harvest Sanctifier": [
+		{"id": "4e8939d3-700e-432e-87ea-5a6d537e421f", "index":"0"}
+		,{"id": "4e8939d3-700e-432e-87ea-5a6d537e421f", "index":"2"}
+		,{"id": "6e0215b8-b92d-42ca-b447-89ce45b7a682", "index":"3"}
+		,{"id": "112e52b5-82ca-4b76-9909-c0aa04aeeb7a", "index":"1"}
+		,{"id": "d632fcf9-6880-4101-b670-edad8226ce60", "index":"1"}
 	]
 ,	"Goliath Beetle": [
 	]
@@ -1091,8 +1130,23 @@
 ,	"Grizzly Trap": [
 	]
 ,	"Volatile Battlemage": [
+		{"id": "16c76d9e-93cf-40a6-b25c-afdd8780d9cd", "index":"1"}
+		,{"id": "3bf4a471-5c25-4362-83a7-ff9d2b62f7a6", "index":"2"}
+		,{"id": "a45d38bf-1bbc-418f-83d2-652c7d2f34d7", "index":"1"}
+		,{"id": "762ada30-e1d4-42fd-9cb5-0890aa7ebf5e", "index":"1"}
+		,{"id": "b64fcfaa-f524-4106-97e4-999815c35ba8", "index":"1"}
+		,{"id": "7e524fb9-e723-4ade-b636-4fc0ba247ccf", "index":"3"}
+		,{"id": "e224a083-95f6-49e2-8c7f-dadfbba98f31", "index":"2"}
 	]
 ,	"Ordinary Flower Pot": [
+		{"id": "38f3775f-1bfe-4229-8836-86361ca30379", "index":"0"}
+		,{"id": "38f3775f-1bfe-4229-8836-86361ca30379", "index":"1"}
+		,{"id": "94f65a34-356e-4cee-ac91-40001b561c9e", "index":"0"}
+		,{"id": "94f65a34-356e-4cee-ac91-40001b561c9e", "index":"2"}
+		,{"id": "06e001ac-4ecf-4823-94e1-8dd68d2b05b7", "index":"3"}
+		,{"id": "06e001ac-4ecf-4823-94e1-8dd68d2b05b7", "index":"1"}
+		,{"id": "b8ede178-5b2a-48c9-8590-edff0fab188f", "index":"1"}
+		,{"id": "9bf3783e-f8f6-4bbf-b78e-1ab8f2751edd", "index":"3"}
 	]
 ,	"Ancient Scholar": [
 	]
@@ -1451,22 +1505,54 @@
 ,	"Graverobbing Robot": [
 	]
 ,	"Bandage Beetle": [
+		{"id": "c6073419-0b0b-47be-b834-e6de5a6e38db", "index":"1"}
+		,{"id": "c6073419-0b0b-47be-b834-e6de5a6e38db", "index":"2"}
+		,{"id": "56ad7b68-b4aa-44c6-ba28-2093ea5e6556", "index":"3"}
 	]
 ,	"Deadfield Tiller": [
+		{"id": "902f686b-2aa6-427e-aa01-bd0121e13b27", "index":"1"}
+		,{"id": "3bce2cc2-7905-4055-a5c5-f61caeece66e", "index":"1"}
+		,{"id": "dd8db80a-be81-42cd-8117-d370f2fdce6b", "index":"1"}
 	]
 ,	"Frightweaver": [
+		{"id": "486584b2-e68e-44a9-a038-0edfd1135259", "index":"3"}
+		,{"id": "5303463c-59b3-4fb2-94c4-4a297ae0ad1a", "index":"1"}
+		,{"id": "6c892b4d-9f53-4686-88b5-2ef14a829397", "index":"1"}
+		,{"id": "6c892b4d-9f53-4686-88b5-2ef14a829397", "index":"0"}
+		,{"id": "8ddea716-e1f9-491b-aca2-f52b67ebc68d", "index":"0"}
 	]
 ,	"Mini Golem": [
+		{"id": "ead00509-22e1-4300-a2f5-37e68b0be839", "index":"1"}
+		,{"id": "46a0753e-b7f5-4268-a101-deb73939d6be", "index":"2"}
+		,{"id": "ead00509-22e1-4300-a2f5-37e68b0be839", "index":"0"}
 	]
 ,	"Clocktower Drake": [
+		{"id": "b66028ef-5e3a-4038-a5ee-304d9808015f", "index":"2"}
+		,{"id": "1f413697-4aa9-4268-8632-34cae7b439c3", "index":"3"}
 	]
 ,	"Roaming Cherub": [
+		{"id": "1e429c2b-5a05-49ab-9489-c12018649b91", "index":"3"}
+		,{"id": "73e183ab-cd8f-4e66-b328-a4226a72e32b", "index":"1"}
+		,{"id": "93428f42-6dac-49ed-8e69-43a69015a590", "index":"0"}
+		,{"id": "62caf3af-4107-40ab-861f-b8b9f3da8602", "index":"2"}
+		,{"id": "9f44ec3c-8312-484b-bc3f-b055f211334b", "index":"1"}
+		,{"id": "cda9e665-f4f8-47ac-8a96-6bb29eb7cff1", "index":"0"}
+		,{"id": "cda9e665-f4f8-47ac-8a96-6bb29eb7cff1", "index":"2"}
+		,{"id": "050c77d2-5182-4382-b5bc-db641bf5cec5", "index":"2"}
 	]
 ,	"Old Bessy": [
+		{"id": "9c28fb54-8e94-4d81-8f7f-af5a9d185ca2", "index":"2"}
+		,{"id": "d18a97fb-acf3-40be-b0ea-1d03a5d4f718", "index":"0"}
 	]
 ,	"Realmshifter": [
+		{"id": "e39d57f2-0251-4a7d-83b3-fbf31cdf863d", "index":"1"}
+		,{"id": "ca25e5d3-d262-4f14-9b5c-79a9a9086431", "index":"2"}
 	]
 ,	"Shapeshifter": [
+		{"id": "ec5ac332-b6b1-4b86-8b06-ac7403f17f1b", "index":"3"}
+		,{"id": "ec5ac332-b6b1-4b86-8b06-ac7403f17f1b", "index":"1"}
+		,{"id": "0910dc1c-1abc-4850-9805-126bdbab7799", "index":"2"}
+		,{"id": "e44b464d-8fb8-4785-b44d-30862c9b331d", "index":"0"}
 	]
 ,	"Big Dino Boy": [
 	]
