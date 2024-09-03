@@ -1149,20 +1149,48 @@
 		,{"id": "9bf3783e-f8f6-4bbf-b78e-1ab8f2751edd", "index":"3"}
 	]
 ,	"Ancient Scholar": [
+		{"id": "32bff669-6480-4e61-b3d7-5b296fbb3e86", "index":"1"}
+		,{"id": "e829a262-4a18-4388-8c7f-8584048fc4ff", "index":"3"}
 	]
 ,	"Little Lamb": [
 	]
 ,	"Weaponized Pest": [
+		{"id": "b463c1a6-da7b-45d1-b9df-9c0118388788", "index":"3"}
+		,{"id": "2df60f72-ae91-42ff-b736-7b07706da614", "index":"0"}
+		,{"id": "10744971-91da-4603-9a30-c882162ef0b7", "index":"1"}
+		,{"id": "2696929c-fc7b-4b25-80c4-4c05acd4cf0b", "index":"0"}
+		,{"id": "e97f4d7a-e262-4e9e-bfa0-b88b710a66ca", "index":"0"}
 	]
 ,	"Beastcaster": [
+		{"id": "01774065-3ddf-4645-876e-b5f914ba9dfc", "index":"2"}
+		,{"id": "77ddb1fb-6d27-41fd-91a0-1490b1e96fd3", "index":"3"}
+		,{"id": "19cdbc49-22ba-49f0-a7bf-adcb3a185fc5", "index":"2"}
 	]
 ,	"Trained War Elephant": [
+		{"id": "a3057994-a1cb-4ea6-a496-3064fe982b59", "index":"1"}
+		,{"id": "4a8a8406-1e05-4b13-a11d-73885cebdc89", "index":"1"}
+		,{"id": "6ef972f4-5b88-4066-b833-be272e43328c", "index":"2"}
+		,{"id": "f73346c9-033d-42e0-a7bc-51d4f0779a79", "index":"0"}
 	]
 ,	"Starborne Basilisk": [
+		{"id": "51d5c956-0945-49dd-ac85-28c30aa2553b", "index":"0"}
+		,{"id": "51d5c956-0945-49dd-ac85-28c30aa2553b", "index":"2"}
+		,{"id": "c0215ff7-e632-4301-8717-be673fdf5103", "index":"2"}
+		,{"id": "35fabae1-ed92-4f52-bfc3-0eabddefa806", "index":"0"}
+		,{"id": "75af3cd1-ca14-49e1-b440-992c90605717", "index":"2"}
 	]
 ,	"Gladehost Kyudo Master": [
+		{"id": "d5fcdaf9-cde7-4aae-8f10-dfa0563034ad", "index":"2"}
+		,{"id": "ab75823b-9baa-4dd1-93d4-da7a883484e3", "index":"3"}
+		,{"id": "780c6c09-f30e-4cb3-8a30-4443378dec71", "index":"0"}
+		,{"id": "76923fb4-99d5-49ce-b188-049f29fd9fa0", "index":"1"}
+		,{"id": "8eb1f4bb-2550-4963-a72a-d88c5b4f19b8", "index":"2"}
 	]
 ,	"Chalice Bloodbrewer": [
+		{"id": "22809f0a-08dc-4f64-98a8-4404c4ab27ff", "index":"1"}
+		,{"id": "5b91328b-1723-4e9a-ae74-e0d94368bbd9", "index":"3"}
+		,{"id": "79cc175a-38b4-4f94-b788-3a21fe90bd96", "index":"3"}
+		,{"id": "79cc175a-38b4-4f94-b788-3a21fe90bd96", "index":"1"}
 	]
 ,	"Packhunting Crystalbeast": [
 	]
