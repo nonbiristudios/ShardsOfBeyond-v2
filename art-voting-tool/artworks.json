@@ -1378,6 +1378,10 @@
 		{"id": "89013cde-4192-47cd-aaf5-42d2b236e249", "index":"3"}
 		,{"id": "89013cde-4192-47cd-aaf5-42d2b236e249", "index":"0"}
 		,{"id": "69392398-99f3-418a-b440-62bf3028e365", "index":"0"}
+		,{"id": "60f4fa59-8404-4637-b4cc-84822ee10408", "index":"1"}
+		,{"id": "60f4fa59-8404-4637-b4cc-84822ee10408", "index":"2"}
+		,{"id": "60f4fa59-8404-4637-b4cc-84822ee10408", "index":"3"}
+		,{"id": "b58dc0ce-5fc2-431e-8af7-ef1a4f0ce200", "index":"1"}
 	]
 ,	"Gravebound Ghoul": [
 	]
@@ -1388,30 +1392,72 @@
 ,	"Grim Titan": [
 	]
 ,	"Shadowpounce Panther": [
+		{"id": "f5622707-3a33-4f6e-a48d-a0ad27d68cef", "index":"3"}
+		,{"id": "63098f38-8ca0-4ef2-aebe-f49b99d438c7", "index":"0"}
+		,{"id": "63098f38-8ca0-4ef2-aebe-f49b99d438c7", "index":"1"}
 	]
 ,	"Shardtooth": [
+		{"id": "58f469e1-7b8d-44b8-bc46-7633399d832f", "index":"3"}
+		,{"id": "cc8f43a5-20c6-4de5-94aa-485ac5585189", "index":"2"}
+		,{"id": "cc8f43a5-20c6-4de5-94aa-485ac5585189", "index":"1"}
 	]
 ,	"Hungry Shambler": [
 	]
 ,	"Sunflower Sprite": [
+		{"id": "368b24f9-1c00-4779-a36d-f23591683de3", "index":"2"}
+		,{"id": "841dd73b-7d36-4a8a-8a78-c022ece5f065", "index":"3"}
+		,{"id": "6f794a01-5504-4ec7-bb5a-ac0c8f5716c9", "index":"1"}
+		,{"id": "70740339-f369-4a1a-ad6a-212daf6b27c2", "index":"1"}
+		,{"id": "4954a71b-620f-4810-9cea-b02f6b424cae", "index":"2"}
+		,{"id": "8e937feb-8227-422d-8f90-e44a4d7fed4a", "index":"1"}
+		,{"id": "a660357f-f781-484d-9c02-d4107b2b1921", "index":"3"}
+		,{"id": "2eac0e7f-1057-4e7a-8328-509c0dceae16", "index":"0"}
+		,{"id": "86478582-4086-482d-9ccd-7d3de2bc5fb8", "index":"0"}
+		,{"id": "a3158ad4-0ab7-45c4-aed6-9ab285a23027", "index":"2"}
 	]
 ,	"Tiger Matriarch": [
+		{"id": "f6e8a559-f4fc-4cf8-b9f5-569b484cff1b", "index":"1"}
+		,{"id": "f6e8a559-f4fc-4cf8-b9f5-569b484cff1b", "index":"2"}
+		,{"id": "2ab65831-7f8c-4cc5-8d16-dd8600a5c55d", "index":"1"}
 	]
 ,	"Meekbone Soldier": [
 	]
 ,	"Monarch of Shadows": [
 	]
 ,	"Venus Flytrap": [
+		{"id": "94fd87fd-6fe5-4515-b144-4c4f0d68d57f", "index":"1"}
+		,{"id": "ded6b164-2889-42a4-b1f9-04282827ce15", "index":"0"}
+		,{"id": "0a06d262-0fba-46b7-8b36-c0577450e03f", "index":"2"}
+		,{"id": "68756729-3a30-4b41-b769-c6867a043cb9", "index":"3"}
 	]
 ,	"Arcane Gorgosaur": [
+		{"id": "b08502a5-5aca-438a-94dd-8131f6449d0f", "index":"0"}
+		,{"id": "274f0ec2-a274-4e22-99ff-109dc900f82e", "index":"2"}
+		,{"id": "51595c18-3b00-4985-8cac-2578e4df451c", "index":"1"}
+		,{"id": "f55162d5-e50e-422e-8591-d8fddf15d6e7", "index":"3"}
+		,{"id": "348510da-2553-4aeb-82e5-38b2cdbccaac", "index":"1"}
 	]
 ,	"Bloodclaw": [
+		{"id": "50c1849f-5f11-4883-935d-7b2180147df1", "index":"3"}
+		,{"id": "2f33e1b3-2e0e-4026-a457-bf83bf9f691d", "index":"0"}
+		,{"id": "80a1b34c-eee4-4dc4-b941-3a15ce682d1a", "index":"2"}
 	]
 ,	"Duke of the Grove": [
+		{"id": "d88283a5-5792-42c5-aec4-2d68e2006546", "index":"0"}
+		,{"id": "df435127-4535-4681-b89b-eec4ffa529c7", "index":"0"}
+		,{"id": "c5875f38-8c50-454f-8f24-5ca55ca271c4", "index":"1"}
+		,{"id": "cdf9f2d4-9c5b-4463-889d-566fda0c3ba0", "index":"0"}
+		,{"id": "88105867-8090-4172-bfce-1b89be7bbf4d", "index":"3"}
+		,{"id": "d65799d4-2b4c-4a67-b3db-92ab18625712", "index":"1"}
+		,{"id": "4935ac9c-8ab4-4c9d-957a-10586754da6a", "index":"3"}
+		,{"id": "bb398dc4-8526-4fa4-a38b-9191edd4b28f", "index":"3"}
+		,{"id": "efb2dd81-b6be-4417-ac5f-7d627f4b4e0c", "index":"0"}
+		,{"id": "383d2d7d-4882-42d2-a387-a8f0955ab3ee", "index":"0"}
 	]
 ,	"Omenshadow": [
 	]
 ,	"Mantis Queen": [
+		{"id": "387b5688-00d1-43e1-994b-f1166a9f9f07", "index":"2"}
 	]
 ,	"Purple Crusader": [
 	]
@@ -1424,6 +1470,8 @@
 ,	"Sanguine Teapot": [
 	]
 ,	"Sun Crystal Saurus": [
+		{"id": "791b4388-e42b-4a77-a558-2677d1590cd0", "index":"0"}
+		,{"id": "02f490f5-8a73-4b18-98b2-f180b56a6854", "index":"0"}
 	]
 ,	"Sandsilk Fox": [
 		{"id": "d32d623f-8304-4652-a723-5e08c4834598", "index":"1"}
@@ -1602,14 +1650,43 @@
 ,	"Ill-Tempered Imp": [
 	]
 ,	"Nightbloom Owl": [
+		{"id": "6c58f11f-2c5c-4343-bafa-89c85f0d6bab", "index":"0"}
+		,{"id": "04324003-0364-4d0e-b28e-cb9f4a2554e2", "index":"0"}
+		,{"id": "04324003-0364-4d0e-b28e-cb9f4a2554e2", "index":"2"}
+		,{"id": "04324003-0364-4d0e-b28e-cb9f4a2554e2", "index":"3"}
+		,{"id": "af796306-fa16-40f5-9f28-2a1b84a1f3ab", "index":"1"}
 	]
 ,	"Shroom Behemoth": [
+		{"id": "9d276849-3be7-4a19-8a23-be0e88fd505b", "index":"0"}
+		,{"id": "9d276849-3be7-4a19-8a23-be0e88fd505b", "index":"2"}
+		,{"id": "9d276849-3be7-4a19-8a23-be0e88fd505b", "index":"3"}
+		,{"id": "689c4844-d4f2-4395-9092-dc50d63f0541", "index":"0"}
+		,{"id": "689c4844-d4f2-4395-9092-dc50d63f0541", "index":"3"}
+		,{"id": "880ee418-cfc5-4423-92a4-d5c3264c546a", "index":"2"}
+		,{"id": "5c478fb9-7816-41dd-b67b-2e723d70b953", "index":"2"}
 	]
 ,	"Hellblade": [
+		{"id": "65cffa49-030d-4bf0-8642-4b296917b9f0", "index":"1"}
+		,{"id": "65cffa49-030d-4bf0-8642-4b296917b9f0", "index":"3"}
+		,{"id": "54e5785d-426b-4577-8b6f-9860501a149d", "index":"0"}
+		,{"id": "54e5785d-426b-4577-8b6f-9860501a149d", "index":"1"}
+		,{"id": "54e5785d-426b-4577-8b6f-9860501a149d", "index":"3"}
+		,{"id": "f1f51a3a-0295-445c-9c9a-dfd9d9b423b5", "index":"3"}
+		,{"id": "a01f0b5d-1d81-4499-9574-a9009c478114", "index":"2"}
+		,{"id": "a01f0b5d-1d81-4499-9574-a9009c478114", "index":"1"}
 	]
 ,	"Eclipse Dragon": [
+		{"id": "537aae6e-8ea5-477b-af84-e4fd575571d9", "index":"1"}
+		,{"id": "35b3b0d5-f19b-454b-afb8-1c9e3ca5c237", "index":"2"}
+		,{"id": "53604f6e-a5f0-4ffd-8781-191a91af181c", "index":"3"}
+		,{"id": "22ed9dd0-ef61-4a2c-b520-80e30f3a0494", "index":"1"}
+		,{"id": "f7f509f6-018d-40bc-9607-6413df49cc52", "index":"0"}
 	]
 ,	"Scythe Abomination": [
+		{"id": "08adc7c0-5814-4f2a-9b13-b88efe40751e", "index":"3"}
+		,{"id": "08adc7c0-5814-4f2a-9b13-b88efe40751e", "index":"0"}
+		,{"id": "5e43144d-d6b4-4bd5-94b6-0a6ddeeb751d", "index":"1"}
+		,{"id": "e7678ed2-bc5b-40da-a284-57aab18a35b3", "index":"1"}
 	]
 ,	"Rotten Stalker": [
 		{"id": "5ffb57a6-694c-47cf-a742-db40c1703c48", "index":"1"}
