@@ -1576,17 +1576,41 @@
 ,	"Bear Cub": [
 		{"id": "d3070d31-c754-4f1e-9f2f-1bad7c022915", "index":"0"}
 		,{"id": "d3070d31-c754-4f1e-9f2f-1bad7c022915", "index":"1"}
+		,{"id": "a4f5483b-90f7-46f6-bc64-e085ee1e6596", "index":"3"}
 	]
 ,	"Necroconut Crab": [
+		{"id": "a64853ac-4caa-477d-aa22-c34fe259ce6b", "index":"0"}
+		,{"id": "dad687db-e456-490a-87b4-60ad739e2bf8", "index":"1"}
+		,{"id": "867462c8-0b6f-4afe-aed8-994b90c1f52b", "index":"2"}
+		,{"id": "514b7e19-3768-488b-b1b3-299534fdd868", "index":"1"}
+		,{"id": "ca7c1b3c-407d-4968-9845-22c5da6b23d6", "index":"3"}
 	]
 ,	"Rotting Alicorn": [
+		{"id": "e5d24bd7-3153-4f93-9be1-39048146a93a", "index":"3"}
+		,{"id": "e5d24bd7-3153-4f93-9be1-39048146a93a", "index":"0"}
+		,{"id": "fb864f4a-d8ba-4e0f-b68d-ded3b127b150", "index":"0"}
+		,{"id": "dd9ab03e-052b-4097-af6c-3b3cadeb1397", "index":"1"}
+		,{"id": "309667e3-9709-4077-8563-7cf140bf1479", "index":"0"}
+		,{"id": "0d76b2b2-77d8-47f8-94c1-6ed325d5a45a", "index":"1"}
+		,{"id": "3b01ef46-8788-46d1-a60a-8dcc32182dd0", "index":"0"}
 	]
 ,	"Tainted Jade Initiate": [
+		{"id": "110f3bf6-8abd-466d-9916-d5f4531b5662", "index":"3"}
+		,{"id": "34694f1a-f509-4223-8b31-9c8aae8cdece", "index":"0"}
+		,{"id": "a890381a-6618-4bda-b41f-c17f3157a96a", "index":"3"}
+		,{"id": "2db381e4-758b-4f94-bff1-1e032ad14d5b", "index":"0"}
+		,{"id": "42693e88-ca4f-4a7a-a2be-74411b6895cb", "index":"2"}
+		,{"id": "057d309d-d004-4fbb-85bf-9f9f1a066608", "index":"3"}
+		,{"id": "666593e0-327b-4a28-a708-e86e2598acb6", "index":"1"}
 	]
 ,	"Cryptroach": [
 		{"id": "b6b028b1-6920-4dde-9694-73d589c7969e", "index":"1"}
 	]
 ,	"Abyssal Silencer": [
+		{"id": "5190a1dd-f7bf-4e00-b502-3218c8396f35", "index":"0"}
+		,{"id": "3f6cf86c-a20b-48ba-9764-e840f53833d3", "index":"0"}
+		,{"id": "dd82c4f3-911b-4612-a06e-69d65ac6c951", "index":"0"}
+		,{"id": "4fcdd87d-908c-4ced-bfd5-4be94a5d1013", "index":"0"}
 	]
 ,	"Blightcoven Puppeteer": [
 	]
@@ -1843,7 +1867,7 @@
 	]
 ,	"Road of Triumph": [
 	]
-,	"Black Colliseum": [
+,	"Black Colosseum": [
 	]
 ,	"Docks of Despair": [
 	]
