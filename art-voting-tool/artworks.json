@@ -1720,8 +1720,16 @@
 ,	"Symbiotic Crawler": [
 	]
 ,	"Nightreaper": [
+		{"id": "54a955fa-4cf9-4ad7-a49d-3d9d28a206ad", "index":"1"}
+		,{"id": "3432df11-bef6-4eda-b76e-b4eb16b94be1", "index":"3"}
+		,{"id": "3a147f13-6f59-44b7-8b20-2b2f8cbec4e3", "index":"3"}
+		,{"id": "518a6ecb-c3fa-47f3-9af1-951f280135b2", "index":"0"}
+		,{"id": "518a6ecb-c3fa-47f3-9af1-951f280135b2", "index":"2"}
 	]
 ,	"The Forsaken King": [
+		{"id": "ceffc422-8f67-4373-b88f-9001f745346e", "index":"3"}
+		,{"id": "329c884d-b09a-4e73-aaa6-624bb2faf437", "index":"0"}
+		,{"id": "d7dca630-c76d-42db-8c8e-098b170c9f61", "index":"0"}
 	]
 ,	"Gorgon Serpentress": [
 		{"id": "fe64b7e6-2440-4d46-a4c5-1101d3bf5f3d", "index":"2"}
@@ -1908,5 +1916,7 @@
 ,	"Terrain #9": [
 	]
 ,	"Meek Mellows": [
+	]
+,	"Thundering Valley": [
 	]
 }
