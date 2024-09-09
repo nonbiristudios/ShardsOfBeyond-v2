@@ -1716,8 +1716,18 @@
 		{"id": "5531e7cf-23f3-4725-986f-2de126d022b2", "index":"2"}
 	]
 ,	"Skull Crow": [
+		{"id": "daa5df80-5847-4fa3-b98f-9e5564d261e0", "index":"0"}
+		,{"id": "daa5df80-5847-4fa3-b98f-9e5564d261e0", "index":"3"}
+		,{"id": "f2f0d1d5-448c-41c9-aeee-7989cce9f4b1", "index":"0"}
+		,{"id": "ff03a905-8b47-4bd9-928f-24dcb019a190", "index":"1"}
 	]
 ,	"Symbiotic Crawler": [
+		{"id": "f90f6950-8d45-4b82-98fe-6ad9bb1f3bb3", "index":"0"}
+		,{"id": "f90f6950-8d45-4b82-98fe-6ad9bb1f3bb3", "index":"3"}
+		,{"id": "f90f6950-8d45-4b82-98fe-6ad9bb1f3bb3", "index":"2"}
+		,{"id": "88ec9dfa-d82b-4beb-804a-4ec0ac518a50", "index":"2"}
+		,{"id": "83f33e56-5ef0-478d-a89a-26f7c2b2c30c", "index":"0"}
+		,{"id": "83f33e56-5ef0-478d-a89a-26f7c2b2c30c", "index":"3"}
 	]
 ,	"Nightreaper": [
 		{"id": "54a955fa-4cf9-4ad7-a49d-3d9d28a206ad", "index":"1"}
@@ -1725,6 +1735,7 @@
 		,{"id": "3a147f13-6f59-44b7-8b20-2b2f8cbec4e3", "index":"3"}
 		,{"id": "518a6ecb-c3fa-47f3-9af1-951f280135b2", "index":"0"}
 		,{"id": "518a6ecb-c3fa-47f3-9af1-951f280135b2", "index":"2"}
+		,{"id": "d10de1b7-898f-4645-92ce-e778e24c0c6d", "index":"3"}
 	]
 ,	"The Forsaken King": [
 		{"id": "ceffc422-8f67-4373-b88f-9001f745346e", "index":"3"}
