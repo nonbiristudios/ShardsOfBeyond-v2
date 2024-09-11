@@ -1613,10 +1613,20 @@
 		,{"id": "4fcdd87d-908c-4ced-bfd5-4be94a5d1013", "index":"0"}
 	]
 ,	"Blightcoven Puppeteer": [
+		{"id": "162dad93-4925-48c0-86fa-5df8ffd82b08", "index":"0"}
+		,{"id": "7c387667-9d92-4476-b7a5-b7af2603e1fe", "index":"2"}
 	]
 ,	"Bloodthrone Ambassador": [
+		{"id": "c7659340-8595-49ab-87e8-84787ee78ffd", "index":"1"}
+		,{"id": "c7659340-8595-49ab-87e8-84787ee78ffd", "index":"2"}
+		,{"id": "263933fc-4153-44f6-a3cf-efe1c103b9c2", "index":"1"}
+		,{"id": "02156549-476b-4ac1-89d0-6b01a7fbac8a", "index":"1"}
 	]
 ,	"Bloodthrone Sovereign": [
+		{"id": "bc9ec0a0-e702-442d-9d1b-4dd0b5218bc6", "index":"1"}
+		,{"id": "da6f42e6-7d2f-4e50-a16d-27cd86a9ca49", "index":"0"}
+		,{"id": "24ce409b-3cca-4f46-b0b5-66ffc95c749d", "index":"3"}
+		,{"id": "1ac0e8f7-151e-4422-8b8c-bf61ba5d1a53", "index":"3"}
 	]
 ,	"Emissary of Darkness": [
 	]
