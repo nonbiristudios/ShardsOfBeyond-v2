@@ -1627,12 +1627,20 @@
 		,{"id": "da6f42e6-7d2f-4e50-a16d-27cd86a9ca49", "index":"0"}
 		,{"id": "24ce409b-3cca-4f46-b0b5-66ffc95c749d", "index":"3"}
 		,{"id": "1ac0e8f7-151e-4422-8b8c-bf61ba5d1a53", "index":"3"}
+		,{"id": "0e43359b-9b3e-4c45-beaf-af7d4832e628", "index":"1"}
+		,{"id": "0e43359b-9b3e-4c45-beaf-af7d4832e628", "index":"0"}
 	]
 ,	"Emissary of Darkness": [
+		{"id": "9e7e3a54-7034-42ee-ac74-f645c0872798", "index":"0"}
+		,{"id": "6a991d4a-f22b-4402-b948-a154d276644d", "index":"2"}
+		,{"id": "efb0be74-b35e-4482-a701-ff734799e7ee", "index":"0"}
 	]
 ,	"Forsaken Chronicler": [
+		{"id": "867b819c-c829-47c3-8610-fd48d857e853", "index":"3"}
+		,{"id": "1857e517-7bc2-42e1-a0a0-89f8cc4d995f", "index":"3"}
 	]
-,	"Forsaken Serenader": [
+,	"Forsaken Soulshiv": [
+		{"id": "07e23a6a-3294-407c-8982-8715f39c9382", "index":"2"}
 	]
 ,	"Foul Corruptor": [
 	]
