@@ -1641,8 +1641,14 @@
 	]
 ,	"Forsaken Soulshiv": [
 		{"id": "07e23a6a-3294-407c-8982-8715f39c9382", "index":"2"}
+		,{"id": "7e20bff2-8427-472d-840d-979a0755b2c8", "index":"0"}
+		,{"id": "7e20bff2-8427-472d-840d-979a0755b2c8", "index":"2"}
+		,{"id": "97e573ac-355c-4f18-a197-139751f6849a", "index":"0"}
 	]
 ,	"Foul Corruptor": [
+		{"id": "89824033-00a1-41d7-b25a-ba639c2b447f", "index":"2"}
+		,{"id": "89824033-00a1-41d7-b25a-ba639c2b447f", "index":"0"}
+		,{"id": "7b1de13c-b465-4213-9f2b-78dbc6c85132", "index":"3"}
 	]
 ,	"Ghoulflesh Devourer": [
 	]
