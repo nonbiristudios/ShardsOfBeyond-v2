@@ -1651,11 +1651,18 @@
 		,{"id": "7b1de13c-b465-4213-9f2b-78dbc6c85132", "index":"3"}
 		,{"id": "20878f04-6db4-4921-b3e8-78b32c691849", "index":"1"}
 		,{"id": "4f39b32a-12f3-4f33-8926-33849565856d", "index":"0"}
+		,{"id": "5bae7113-2f5a-4b73-87f4-6d9b78e7eeee", "index":"1"}
+		,{"id": "90cb352a-64aa-4121-b30d-4872d4707c75", "index":"0"}
+		,{"id": "be9e33df-53e3-4ba9-b78d-a638dd795217", "index":"0"}
+		,{"id": "99567b88-2374-4ea8-b28b-a5f05e5585b5", "index":"3"}
 	]
 ,	"Ghoulflesh Devourer": [
 		{"id": "fd4571f3-05ac-44eb-bb05-b7f87755ff5f", "index":"2"}
 		,{"id": "2015eae7-f8fe-4ae3-9e86-68fc8209e0f9", "index":"1"}
 		,{"id": "56423885-c0d3-4de9-84f2-5841ca663db4", "index":"0"}
+		,{"id": "3368ea80-eb99-431a-b18e-c6209d8c03da", "index":"0"}
+		,{"id": "3368ea80-eb99-431a-b18e-c6209d8c03da", "index":"3"}
+		,{"id": "9ed9297c-ced3-4ec8-b6c9-6a710831a6fb", "index":"2"}
 	]
 ,	"Grinning Amphora": [
 		{"id": "6cfaf2cf-9b54-457e-bb4e-122d7a36e929", "index":"1"}
@@ -1664,8 +1671,15 @@
 		,{"id": "d51c42a9-d21b-455b-b717-2e711e19f0d6", "index":"0"}
 		,{"id": "d51c42a9-d21b-455b-b717-2e711e19f0d6", "index":"2"}
 		,{"id": "d51c42a9-d21b-455b-b717-2e711e19f0d6", "index":"3"}
+		,{"id": "b392fba2-9f4d-4b44-8089-24bd297605d2", "index":"3"}
+		,{"id": "2d9d297a-3f82-4914-a300-7c37c26ac936", "index":"0"}
 	]
 ,	"Intrusive Ambassador": [
+		{"id": "9c727ff6-c46f-495a-8745-eb3feef08a58", "index":"2"}
+		,{"id": "3b94e074-2b90-4fa3-bb5b-c3a7d3664e1b", "index":"2"}
+		,{"id": "d14b775f-e7b0-42bf-a5a7-ee4e093d8287", "index":"2"}
+		,{"id": "d14b775f-e7b0-42bf-a5a7-ee4e093d8287", "index":"0"}
+		,{"id": "22fa481a-78f9-4baa-8123-8872b633cc3c", "index":"0"}
 	]
 ,	"Guardian of Heaven": [
 	]
@@ -1740,8 +1754,15 @@
 ,	"Shaman of the Scale": [
 	]
 ,	"Nethersilk Moth": [
+		{"id": "721d5d72-5e1b-492d-a65a-671dc46df53a", "index":"3"}
+		,{"id": "721d5d72-5e1b-492d-a65a-671dc46df53a", "index":"0"}
+		,{"id": "a9ccb994-28ac-424d-a80c-a74d62f592c9", "index":"1"}
+		,{"id": "6d8f687e-3016-4046-b7dc-d01ad76ff4be", "index":"3"}
 	]
 ,	"Nightmare Penguin": [
+		{"id": "9a41f8d3-5bc5-4d9b-81c3-e95ef5b1479e", "index":"2"}
+		,{"id": "17c5c75e-e1c2-4ce4-a33f-2c72a7754f18", "index":"1"}
+		,{"id": "536617b6-2031-4c60-aee8-5c7d124d29a1", "index":"3"}
 	]
 ,	"Possessed Vermin Brood": [
 	]
