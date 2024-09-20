@@ -705,8 +705,19 @@
 ,	"Venom-Dew": [
 	]
 ,	"Golemsaurus": [
+		{"id": "4a9e3c36-a665-4b81-a07f-375b1413395e", "index":"0"}
+		,{"id": "dacfd129-71b1-45b1-93b4-a93fd9c33cc6", "index":"3"}
+		,{"id": "52054a28-e5d2-4108-97d7-7f8c717e13f9", "index":"0"}
+		,{"id": "80b1b60f-a56a-4316-b236-3c64efd9e7e2", "index":"2"}
+		,{"id": "378f2078-1824-455e-895f-fe0feb0387e6", "index":"1"}
+		,{"id": "5dd74aad-64d1-4f3c-85dc-1047094fdebc", "index":"1"}
+		,{"id": "067e0e0c-01bf-4cd5-b362-2ff08a3ca946", "index":"0"}
 	]
 ,	"Slumbering Cavedrake": [
+		{"id": "7ce57454-8e8b-49fb-a4c3-0211ff1fde73", "index":"0"}
+		,{"id": "a737b620-375e-4bea-841a-f15d67a967ae", "index":"3"}
+		,{"id": "a737b620-375e-4bea-841a-f15d67a967ae", "index":"0"}
+		,{"id": "acf0f6ca-a4e8-42f7-998a-6dbb4b4e97db", "index":"2"}
 	]
 ,	"Eagle of the Legion": [
 	]
@@ -1763,19 +1774,35 @@
 		{"id": "9a41f8d3-5bc5-4d9b-81c3-e95ef5b1479e", "index":"2"}
 		,{"id": "17c5c75e-e1c2-4ce4-a33f-2c72a7754f18", "index":"1"}
 		,{"id": "536617b6-2031-4c60-aee8-5c7d124d29a1", "index":"3"}
+		,{"id": "9909c810-1d1a-4522-9746-608c8037fb22", "index":"1"}
+		,{"id": "9909c810-1d1a-4522-9746-608c8037fb22", "index":"2"}
+		,{"id": "04085c59-02b2-4615-a629-0a24c3e14894", "index":"0"}
+		,{"id": "04085c59-02b2-4615-a629-0a24c3e14894", "index":"1"}
+		,{"id": "ae6a24ea-f137-4d87-a4f0-375045bce929", "index":"0"}
 	]
 ,	"Possessed Vermin Brood": [
+		{"id": "5d3ff22a-635c-49a0-947e-22c88e092c1d", "index":"2"}
+		,{"id": "c8c47bdb-5783-4472-8113-a503b7a339de", "index":"0"}
+		,{"id": "c8c47bdb-5783-4472-8113-a503b7a339de", "index":"2"}
 	]
 ,	"Shadowsting Scorpion": [
+		{"id": "d85a9ebe-d10f-41c3-8c3f-8f39e905f0f7", "index":"2"}
+		,{"id": "686f79ee-72a4-4494-84de-527749b07bc1", "index":"0"}
 	]
 ,	"Shiverskull": [
-		{"id": "5531e7cf-23f3-4725-986f-2de126d022b2", "index":"2"}
+		{"id": "b816314c-3b2a-4218-b988-7d8a32017561", "index":"0"}
+		,{"id": "b816314c-3b2a-4218-b988-7d8a32017561", "index":"3"}
+		,{"id": "c2f4baf1-31f1-4606-bf23-6d1860caa636", "index":"1"}
+		,{"id": "c2f4baf1-31f1-4606-bf23-6d1860caa636", "index":"2"}
+		,{"id": "1051c755-b7be-4af9-b7f5-630390db8721", "index":"2"}
 	]
 ,	"Skull Crow": [
 		{"id": "daa5df80-5847-4fa3-b98f-9e5564d261e0", "index":"0"}
 		,{"id": "daa5df80-5847-4fa3-b98f-9e5564d261e0", "index":"3"}
 		,{"id": "f2f0d1d5-448c-41c9-aeee-7989cce9f4b1", "index":"0"}
 		,{"id": "ff03a905-8b47-4bd9-928f-24dcb019a190", "index":"1"}
+		,{"id": "5ac52d41-3ad4-459d-b8d6-8c2cc855a039", "index":"3"}
+		,{"id": "43030d91-8b9c-4935-9aab-5de2c288506e", "index":"2"}
 	]
 ,	"Symbiotic Crawler": [
 		{"id": "f90f6950-8d45-4b82-98fe-6ad9bb1f3bb3", "index":"0"}
