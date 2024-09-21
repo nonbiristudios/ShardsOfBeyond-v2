@@ -638,6 +638,7 @@
 ,	"The Skyshrieker": [
 	]
 ,	"Mistborn Serpent": [
+		{"id": "4b0ae33e-48b0-4a70-bfe7-b7fb1ce19584", "index":"1"}
 	]
 ,	"Bringer of Bad Omens": [
 	]
@@ -646,6 +647,16 @@
 ,	"Lightning Manticore": [
 	]
 ,	"Featherfrost Harpy": [
+		{"id": "1b8a54a1-1648-471a-8773-d33323edfc6c", "index":"1"}
+		,{"id": "3254d5f3-70c2-4778-9d74-447ca7154551", "index":"0"}
+		,{"id": "739a58d2-3c6f-4364-ab8f-ebafeec197d5", "index":"0"}
+		,{"id": "739a58d2-3c6f-4364-ab8f-ebafeec197d5", "index":"3"}
+		,{"id": "f91ee4b3-b0aa-4bb2-9123-cfc51a3d7303", "index":"3"}
+		,{"id": "f91ee4b3-b0aa-4bb2-9123-cfc51a3d7303", "index":"1"}
+		,{"id": "a170f085-c1ab-4b23-aea1-faf04144ff38", "index":"2"}
+		,{"id": "16150944-ed00-466a-95ad-d8a577ce77a6", "index":"1"}
+		,{"id": "2713d2d8-5a8c-4b9f-af7c-dd8ed118c60f", "index":"2"}
+		,{"id": "adc32e83-6c11-4fea-aa3c-a9e40440b22b", "index":"2"}
 	]
 ,	"Raging Minotaur": [
 	]
@@ -697,12 +708,31 @@
 ,	"Bastion Architect": [
 	]
 ,	"Sovereign Spellwyrm": [
+		{"id": "4f1b5033-05f9-4562-ad56-d2b641ef5f1f", "index":"3"}
+		,{"id": "d5963950-ad56-4cfb-8146-c8e9dbf4cf69", "index":"3"}
+		,{"id": "beb9e0a6-b2bf-406a-acb9-c9f670ba00a8", "index":"0"}
+		,{"id": "9b4c1075-32e7-4d23-a0ed-09a036f0b737", "index":"3"}
+		,{"id": "01aeb422-4b10-4f42-9cdc-16002a77d82f", "index":"3"}
+		,{"id": "4d30a02e-716e-4b60-a09c-89f780874304", "index":"3"}
 	]
 ,	"Crownfire Empress": [
+		{"id": "cdb66904-4d64-426d-9b57-b52c40bac280", "index":"3"}
+		,{"id": "5b8d513e-1e55-4e3d-83e3-5bb91d908d86", "index":"0"}
+		,{"id": "7f321faf-3805-447d-865c-1174f939f1fb", "index":"2"}
+		,{"id": "05c6f5a4-d62f-42b1-9238-de993928da7c", "index":"0"}
+		,{"id": "f8a1ed76-7240-4cde-a3b9-27fa3ef0e3c1", "index":"2"}
+		,{"id": "17400965-7d5e-43d1-89d1-50bc40d768d4", "index":"3"}
+		,{"id": "e05954af-33c9-4da9-8e4a-db59dcbfe183", "index":"1"}
 	]
 ,	"Blue Crusader": [
 	]
 ,	"Venom-Dew": [
+		{"id": "ae5403d8-a727-4efc-95dc-e3c984fb160c", "index":"3"}
+		,{"id": "ae5403d8-a727-4efc-95dc-e3c984fb160c", "index":"0"}
+		,{"id": "05e2906a-9860-4f5b-a13d-6f5d84bd149f", "index":"2"}
+		,{"id": "c35359e9-f505-4086-9f77-c29fa1d8a9e1", "index":"1"}
+		,{"id": "cbd3dd24-e89a-4b6b-9fb7-f15fbc5a3f00", "index":"3"}
+		,{"id": "0cb75510-f358-4ad9-9e35-132f03cd7b17", "index":"2"}
 	]
 ,	"Golemsaurus": [
 		{"id": "4a9e3c36-a665-4b81-a07f-375b1413395e", "index":"0"}
