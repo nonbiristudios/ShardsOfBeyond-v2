@@ -639,6 +639,12 @@
 	]
 ,	"Mistborn Serpent": [
 		{"id": "4b0ae33e-48b0-4a70-bfe7-b7fb1ce19584", "index":"1"}
+		,{"id": "f54cfacb-1e42-4493-ae44-75344ca090eb", "index":"3"}
+		,{"id": "f54cfacb-1e42-4493-ae44-75344ca090eb", "index":"0"}
+		,{"id": "dd03d379-c986-4895-b4bb-66fda0d2eb11", "index":"2"}
+		,{"id": "7d6a21a3-e2bd-43f2-aa74-e2d49596992c", "index":"0"}
+		,{"id": "eb3f1d41-8b02-4a4e-9e85-b717a42a61d7", "index":"0"}
+		,{"id": "248cc2ef-d54f-4c1d-9f95-f808eebe5123", "index":"1"}
 	]
 ,	"Bringer of Bad Omens": [
 	]
@@ -1934,6 +1940,9 @@
 		,{"id": "83ca19e2-2e10-4948-8314-32f44a89dd14", "index":"0"}
 		,{"id": "83ca19e2-2e10-4948-8314-32f44a89dd14", "index":"2"}
 		,{"id": "3fd9ed41-930b-449c-a0d8-a582a3a8dc51", "index":"0"}
+		,{"id": "00267bdd-11c8-4813-bb0a-c2bdd022a05b", "index":"0"}
+		,{"id": "6107e5e2-617d-4d5b-a627-cf5deb354a6e", "index":"3"}
+		,{"id": "45147fdd-22bb-48d5-8aa9-4356dcba8b46", "index":"3"}
 	]
 ,	"Bandage Beetle": [
 		{"id": "c6073419-0b0b-47be-b834-e6de5a6e38db", "index":"1"}
@@ -1945,6 +1954,9 @@
 		,{"id": "3bce2cc2-7905-4055-a5c5-f61caeece66e", "index":"1"}
 		,{"id": "dd8db80a-be81-42cd-8117-d370f2fdce6b", "index":"1"}
 		,{"id": "8bc651f8-5a74-46c8-a338-5e7470e20d29", "index":"1"}
+		,{"id": "b22ff1f1-e6fc-4125-8cea-7232f92d9b45", "index":"2"}
+		,{"id": "269c73b0-be3d-48c0-ac52-459559b29a4f", "index":"1"}
+		,{"id": "9b189e33-907b-4b73-9d91-41505c20174c", "index":"2"}
 	]
 ,	"Frightweaver": [
 		{"id": "486584b2-e68e-44a9-a038-0edfd1135259", "index":"3"}
@@ -1955,15 +1967,22 @@
 		,{"id": "20c46836-19bc-4c62-8431-98b2760b75d0", "index":"3"}
 		,{"id": "20c46836-19bc-4c62-8431-98b2760b75d0", "index":"2"}
 		,{"id": "149f71d5-4d94-4947-8b64-95192764e495", "index":"3"}
+		,{"id": "67b753bb-9933-44e4-9173-3b0063249ccb", "index":"0"}
+		,{"id": "6739ef37-0162-403e-aa5f-1618dfc3f388", "index":"1"}
 	]
 ,	"Mini Golem": [
 		{"id": "ead00509-22e1-4300-a2f5-37e68b0be839", "index":"1"}
 		,{"id": "46a0753e-b7f5-4268-a101-deb73939d6be", "index":"2"}
 		,{"id": "ead00509-22e1-4300-a2f5-37e68b0be839", "index":"0"}
+		,{"id": "f118c9e8-6691-4568-b982-bdee8c4d3c48", "index":"2"}
+		,{"id": "f118c9e8-6691-4568-b982-bdee8c4d3c48", "index":"1"}
 	]
 ,	"Clocktower Drake": [
 		{"id": "b66028ef-5e3a-4038-a5ee-304d9808015f", "index":"2"}
 		,{"id": "1f413697-4aa9-4268-8632-34cae7b439c3", "index":"3"}
+		,{"id": "798e9110-e3d6-4bea-912e-3edf1190348b", "index":"0"}
+		,{"id": "c1f6934b-b3f3-4886-b338-7f2a1e30579d", "index":"0"}
+		,{"id": "c1f6934b-b3f3-4886-b338-7f2a1e30579d", "index":"3"}
 	]
 ,	"Roaming Cherub": [
 		{"id": "1e429c2b-5a05-49ab-9489-c12018649b91", "index":"3"}
@@ -1978,71 +1997,134 @@
 ,	"Old Bessy": [
 		{"id": "9c28fb54-8e94-4d81-8f7f-af5a9d185ca2", "index":"2"}
 		,{"id": "d18a97fb-acf3-40be-b0ea-1d03a5d4f718", "index":"0"}
+		,{"id": "9f0a0352-c8d7-4fc0-81bd-e0646e75ec05", "index":"2"}
+		,{"id": "79f7eebb-4b11-44f5-97ee-ae9bab80f048", "index":"2"}
 	]
 ,	"Realmshifter": [
 		{"id": "e39d57f2-0251-4a7d-83b3-fbf31cdf863d", "index":"1"}
 		,{"id": "ca25e5d3-d262-4f14-9b5c-79a9a9086431", "index":"2"}
+		,{"id": "ac3477a2-e364-4e6c-b7e2-76d9019e05c3", "index":"1"}
+		,{"id": "5f29509f-1055-4e02-9c83-06ffd01c33bf", "index":"3"}
+		,{"id": "2233b7d5-964b-446e-9579-03639cb3415b", "index":"0"}
 	]
 ,	"Shapeshifter": [
 		{"id": "ec5ac332-b6b1-4b86-8b06-ac7403f17f1b", "index":"3"}
 		,{"id": "ec5ac332-b6b1-4b86-8b06-ac7403f17f1b", "index":"1"}
 		,{"id": "0910dc1c-1abc-4850-9805-126bdbab7799", "index":"2"}
 		,{"id": "e44b464d-8fb8-4785-b44d-30862c9b331d", "index":"0"}
+		,{"id": "96c24ece-da8e-4b60-8c0c-6a196a1ae3db", "index":"3"}
 	]
 ,	"Big Dino Boy": [
 	]
 ,	"Middle Dino Boy": [
 	]
 ,	"Tsagan Battlegrounds": [
+		{"id": "ddcde53e-854f-4732-a6b4-8592770ca20e", "index":"2"}
+		,{"id": "f4d57316-24c9-4c3b-ba22-0de6b33bb37e", "index":"0"}
 	]
 ,	"The Wasteland": [
+		{"id": "88201211-96b8-4414-b374-515cc96e610c", "index":"3"}
+		,{"id": "613ec65e-aa9b-455c-900a-f793e90ff3c6", "index":"1"}
 	]
 ,	"Metropoleia": [
+		{"id": "df77b7df-a1e5-4977-84d7-2340fa346f1e", "index":"0"}
+		,{"id": "df77b7df-a1e5-4977-84d7-2340fa346f1e", "index":"1"}
 	]
 ,	"Black Colosseum": [
+		{"id": "ca62d294-e9f6-4d0e-894f-e496fd4d5a7c", "index":"0"}
+		,{"id": "44df3ce6-8c69-4541-8469-a956481257a8", "index":"1"}
 	]
 ,	"Miststrider Hideout": [
+		{"id": "8c043611-a6de-4127-b476-d2921f918989", "index":"2"}
+		,{"id": "4389bdbb-7782-4158-b5e9-2271b0509efd", "index":"0"}
 	]
 ,	"Coatlanti Underbrush": [
+		{"id": "01862b9a-925e-4960-9b59-dc1accdb43d0", "index":"2"}
+		,{"id": "fb0b2848-d85f-41ff-bd3b-2373abe1848d", "index":"0"}
+		,{"id": "5d05060b-90d2-498e-a31c-61d7573c6a6b", "index":"2"}
 	]
 ,	"Moonspire Outpost": [
+		{"id": "df77b7df-a1e5-4977-84d7-2340fa346f1e", "index":"3"}
+		,{"id": "f2ccdb12-9be6-494f-a6ca-913a79e5a654", "index":"1"}
+		,{"id": "754bff8c-b781-4afb-85ec-bec3f03f5cad", "index":"1"}
 	]
 ,	"Thundercrest Peaks": [
+		{"id": "6b0fcc24-c288-4ec5-af4f-0bcaf82c2ddc", "index":"1"}
+		,{"id": "db1f3de1-0533-4f8c-a65c-105967c191dc", "index":"3"}
+		,{"id": "db1f3de1-0533-4f8c-a65c-105967c191dc", "index":"1"}
 	]
 ,	"Empire Barracks": [
+		{"id": "aa4f4836-a96e-4518-a17b-ce46077f02bd", "index":"3"}
+		,{"id": "aa4f4836-a96e-4518-a17b-ce46077f02bd", "index":"0"}
 	]
 ,	"Xotchli Sanctuary": [
+		{"id": "09b86ab5-112c-406d-a18f-eeeb76fc1db5", "index":"2"}
+		,{"id": "ebb9223e-1b65-4e72-8083-8d3ec8ec12f5", "index":"1"}
 	]
 ,	"Undercity Crypts": [
+		{"id": "8c043611-a6de-4127-b476-d2921f918989", "index":"3"}
+		,{"id": "09b86ab5-112c-406d-a18f-eeeb76fc1db5", "index":"0"}
 	]
 ,	"Treasury of Metropoleia": [
+		{"id": "09b86ab5-112c-406d-a18f-eeeb76fc1db5", "index":"1"}
+		,{"id": "eca69252-5ea5-4e4c-8019-528019d2d791", "index":"0"}
+		,{"id": "eca69252-5ea5-4e4c-8019-528019d2d791", "index":"2"}
+		,{"id": "5e3b38dd-eec2-40cb-aed7-8157f1fcacc3", "index":"0"}
 	]
 ,	"Bataarbad Expanse": [
+		{"id": "5dbb8ecd-9b17-492c-8c6e-4ebd8802e6b4", "index":"2"}
+		,{"id": "8235d30b-b3b6-425e-b229-bb896977b842", "index":"3"}
+		,{"id": "e581b5a0-8efb-4c8e-a1cb-882994165dbb", "index":"1"}
 	]
 ,	"Sunburst Valley": [
+		{"id": "41b197fe-775d-440c-b411-de975aaf0c08", "index":"0"}
+		,{"id": "41b197fe-775d-440c-b411-de975aaf0c08", "index":"2"}
+		,{"id": "41b197fe-775d-440c-b411-de975aaf0c08", "index":"3"}
 	]
 ,	"Terrain #1": [
+		{"id": "eca69252-5ea5-4e4c-8019-528019d2d791", "index":"1"}
 	]
 ,	"Terrain #2": [
+		{"id": "79d3e24f-d6cf-4769-9e12-c80626fe6998", "index":"1"}
 	]
 ,	"Terrain #3": [
+		{"id": "5d05060b-90d2-498e-a31c-61d7573c6a6b", "index":"1"}
 	]
 ,	"Terrain #4": [
+		{"id": "754bff8c-b781-4afb-85ec-bec3f03f5cad", "index":"3"}
 	]
 ,	"Terrain #5": [
+		{"id": "5e3b38dd-eec2-40cb-aed7-8157f1fcacc3", "index":"1"}
 	]
 ,	"Terrain #6": [
+		{"id": "0bd57eba-c988-445d-b3af-0c4d82847fc3", "index":"1"}
 	]
 ,	"Terrain #7": [
+		{"id": "73bfdae2-3e50-4d23-9c71-b130daca9f96", "index":"3"}
 	]
 ,	"Terrain #8": [
+		{"id": "8235d30b-b3b6-425e-b229-bb896977b842", "index":"1"}
 	]
 ,	"Terrain #9": [
+		{"id": "65fbc250-77dd-4941-9eab-f8e05b96899b", "index":"1"}
 	]
 ,	"Sainkhu Groves": [
+		{"id": "c91d6de8-ac68-49c6-a128-6a50add11a95", "index":"0"}
+		,{"id": "6d6e4a05-b455-4225-9f53-6e0c8ca15b9d", "index":"3"}
+		,{"id": "030a487d-a8eb-494b-aab6-66d4b2e606bf", "index":"3"}
 	]
 ,	"Duststorm Valley": [
+		{"id": "4eb60306-01ed-481b-842b-6bfb222ffb0e", "index":"2"}
+		,{"id": "4eb60306-01ed-481b-842b-6bfb222ffb0e", "index":"1"}
+		,{"id": "4ff1ef90-1108-42ab-a355-4a44159221d2", "index":"1"}
 	]
 ,	"Miststrider Assassin": [
+		{"id": "33fb412e-613c-4259-805a-4c65350e8b5d", "index":"0"}
+		,{"id": "33fb412e-613c-4259-805a-4c65350e8b5d", "index":"3"}
+		,{"id": "c9bca36b-de83-404a-9302-2b79d1c2e5a7", "index":"0"}
+		,{"id": "c9bca36b-de83-404a-9302-2b79d1c2e5a7", "index":"1"}
+		,{"id": "c9bca36b-de83-404a-9302-2b79d1c2e5a7", "index":"3"}
+		,{"id": "e638ce50-37c5-4ad8-80d1-84365d8fc508", "index":"3"}
+		,{"id": "4089ed4a-17f3-4ba8-885d-1a44e0495a57", "index":"3"}
 	]
 }
