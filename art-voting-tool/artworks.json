@@ -66,6 +66,7 @@
 	]
 ,	"Feline Ushabti": [
 		{"id": "7b73514c-612c-4f7a-b7b0-8d03ff687646", "index":"1"}
+		,{"id": "7b73514c-612c-4f7a-b7b0-8d03ff687646", "index":"1"}
 	]
 ,	"Guardian of the Gates": [
 		{"id": "13533eea-4c56-4787-a8d1-5b5de4d2fe40", "index":"0"}
@@ -76,17 +77,21 @@
 	]
 ,	"Hallowed Exorcist": [
 		{"id": "fb9ad282-f768-4726-b79b-f40c11d0277b", "index":"3"}
+		,{"id": "fb9ad282-f768-4726-b79b-f40c11d0277b", "index":"3"}
 	]
 ,	"Harmonic Echo": [
 		{"id": "2fb88f6b-7b37-40f3-9ddf-e46da64b9024", "index":"2"}
+		,{"id": "2fb88f6b-7b37-40f3-9ddf-e46da64b9024", "index":"2"}
 	]
 ,	"Ibis Ushabti": [
 		{"id": "10569df3-af61-474e-9997-08b1211eac4b", "index":"3"}
+		,{"id": "10569df3-af61-474e-9997-08b1211eac4b", "index":"3"}
 	]
 ,	"Herald of Eternal Grace": [
 	]
 ,	"Maze Master Sphinx": [
 		{"id": "9ccceaff-97a6-4625-9bea-6567b85c04ef", "index":"0"}
+		,{"id": "9ccceaff-97a6-4625-9bea-6567b85c04ef", "index":"0"}
 	]
 ,	"Ivoryscar Cursewing": [
 	]
@@ -96,22 +101,27 @@
 	]
 ,	"Mystic Puzzle Box": [
 		{"id": "0cf0be47-c57f-4feb-84e6-1790219ba54b", "index":"0"}
+		,{"id": "0cf0be47-c57f-4feb-84e6-1790219ba54b", "index":"0"}
 	]
 ,	"Monolith of Meditation": [
 	]
 ,	"Oasis Sprite": [
 		{"id": "16fb7678-58aa-43f4-976c-6411d373341c", "index":"1"}
+		,{"id": "16fb7678-58aa-43f4-976c-6411d373341c", "index":"1"}
 	]
 ,	"Pharaoh's Bodyguard": [
 		{"id": "4e1424fd-a4dd-430d-b5db-da68488eb78a", "index":"0"}
+		,{"id": "4e1424fd-a4dd-430d-b5db-da68488eb78a", "index":"0"}
 	]
 ,	"Scripture Monkey": [
 		{"id": "3321903a-a303-44ee-8b5d-3487bd693fa9", "index":"3"}
+		,{"id": "3321903a-a303-44ee-8b5d-3487bd693fa9", "index":"3"}
 	]
 ,	"Pyramidion": [
 	]
 ,	"Sekhem Chariot": [
 		{"id": "a6b9796b-edf3-4af3-9ed5-c8182508947e", "index":"1"}
+		,{"id": "a6b9796b-edf3-4af3-9ed5-c8182508947e", "index":"1"}
 	]
 ,	"Obsidian Scarab": [
 		{"id": "5742c34c-4780-42a9-88f6-56a1b9ce53f4", "index":"0"}
@@ -134,11 +144,13 @@
 	]
 ,	"Tranquil Herd Gem Titan": [
 		{"id": "ed7547f6-59f6-4674-8e51-448f70e1a062", "index":"1"}
+		,{"id": "ed7547f6-59f6-4674-8e51-448f70e1a062", "index":"1"}
 	]
 ,	"Towering Obelisk of Xi": [
 	]
 ,	"Thunderswarm Pegasus": [
 		{"id": "2892cac4-ecfc-4b4f-a4e9-1eb61a4971a8", "index":"3"}
+		,{"id": "2892cac4-ecfc-4b4f-a4e9-1eb61a4971a8", "index":"3"}
 	]
 ,	"Winged Ushabti": [
 	]
@@ -164,6 +176,7 @@
 	]
 ,	"Wrath of the Pharaoh": [
 		{"id": "557ea44c-dc30-4519-93c0-96caf2f97815", "index":"3"}
+		,{"id": "557ea44c-dc30-4519-93c0-96caf2f97815", "index":"3"}
 	]
 ,	"Bringer of Good News": [
 		{"id": "c566f85c-bca2-4a6a-af88-429b68373805", "index":"1"}
@@ -206,6 +219,7 @@
 	]
 ,	"Crimson Flamechick": [
 		{"id": "0867635b-b993-4e89-adc9-840fac5e98ae", "index":"2"}
+		,{"id": "0867635b-b993-4e89-adc9-840fac5e98ae", "index":"2"}
 	]
 ,	"The Ascended One": [
 	]
@@ -215,19 +229,23 @@
 	]
 ,	"Thunderswarm Celestial": [
 		{"id": "496903ec-9e29-4e96-baed-fbc1c72e67a2", "index":"3"}
+		,{"id": "496903ec-9e29-4e96-baed-fbc1c72e67a2", "index":"3"}
 	]
 ,	"The Second Wing": [
 		{"id": "f92d2267-2cb6-459f-b8f4-07c280426a32", "index":"2"}
+		,{"id": "f92d2267-2cb6-459f-b8f4-07c280426a32", "index":"2"}
 	]
 ,	"Ivoryscar Fatebreaker": [
 	]
 ,	"Moon Priestess": [
 		{"id": "fe304cba-fe68-4bea-a089-694d2e71a394", "index":"2"}
+		,{"id": "fe304cba-fe68-4bea-a089-694d2e71a394", "index":"2"}
 	]
 ,	"Airstep Sifu": [
 	]
 ,	"Moonspear Paladin": [
 		{"id": "4b963210-17ec-4cc9-9a83-f38a7692af0e", "index":"3"}
+		,{"id": "4b963210-17ec-4cc9-9a83-f38a7692af0e", "index":"3"}
 	]
 ,	"Arcanum Grandmaster": [
 	]
@@ -237,11 +255,13 @@
 	]
 ,	"Glowing Gearhulk": [
 		{"id": "4efd2e1b-a113-49a0-8b09-a71768bc7f0a", "index":"1"}
+		,{"id": "4efd2e1b-a113-49a0-8b09-a71768bc7f0a", "index":"1"}
 	]
 ,	"Boiling Blood Berserker": [
 	]
 ,	"Goat Oracle": [
 		{"id": "96dd861b-6cf4-403c-b701-35339b8bf72c", "index":"0"}
+		,{"id": "96dd861b-6cf4-403c-b701-35339b8bf72c", "index":"0"}
 	]
 ,	"Tranquil Herd Sagehorn": [
 		{"id": "eb74e363-ce23-4333-bf1a-9e45b5410528", "index":"3"}
@@ -250,6 +270,7 @@
 	]
 ,	"Sunblessed Crocodile": [
 		{"id": "85566897-5ef8-42df-8c72-36628a9dd9fc", "index":"1"}
+		,{"id": "85566897-5ef8-42df-8c72-36628a9dd9fc", "index":"1"}
 	]
 ,	"Kois of Duality": [
 		{"id": "e799950f-85b6-4223-b8ea-bc9ef93d3c23", "index":"1"}
@@ -1652,6 +1673,7 @@
 	]
 ,	"Cryptroach": [
 		{"id": "b6b028b1-6920-4dde-9694-73d589c7969e", "index":"1"}
+		,{"id": "b6b028b1-6920-4dde-9694-73d589c7969e", "index":"1"}
 	]
 ,	"Abyssal Silencer": [
 		{"id": "5190a1dd-f7bf-4e00-b502-3218c8396f35", "index":"0"}
@@ -1907,35 +1929,56 @@
 		,{"id": "53604f6e-a5f0-4ffd-8781-191a91af181c", "index":"3"}
 		,{"id": "22ed9dd0-ef61-4a2c-b520-80e30f3a0494", "index":"1"}
 		,{"id": "f7f509f6-018d-40bc-9607-6413df49cc52", "index":"0"}
+		,{"id": "a2b26672-b168-401b-8bc1-ced9abb7a9ab", "index":"2"}
+		,{"id": "6c433f49-6ea9-4361-8f87-4ec5684ed783", "index":"0"}
 	]
 ,	"Scythe Abomination": [
 		{"id": "08adc7c0-5814-4f2a-9b13-b88efe40751e", "index":"3"}
 		,{"id": "08adc7c0-5814-4f2a-9b13-b88efe40751e", "index":"0"}
 		,{"id": "5e43144d-d6b4-4bd5-94b6-0a6ddeeb751d", "index":"1"}
 		,{"id": "e7678ed2-bc5b-40da-a284-57aab18a35b3", "index":"1"}
+		,{"id": "8f5ae3e2-dfc9-4a76-8cf5-00a6d1c78db6", "index":"1"}
+		,{"id": "6437093e-a986-45c7-980b-51516c02106c", "index":"1"}
+		,{"id": "6034d887-e0b2-48be-9f74-002ac9b14e5a", "index":"2"}
+		,{"id": "6034d887-e0b2-48be-9f74-002ac9b14e5a", "index":"3"}
+		,{"id": "daddadee-b55d-401a-adec-44c82a9e917d", "index":"1"}
 	]
 ,	"Rotten Stalker": [
 		{"id": "5ffb57a6-694c-47cf-a742-db40c1703c48", "index":"1"}
 		,{"id": "4da0b68d-28af-4dde-a253-1c020edd6335", "index":"3"}
 		,{"id": "69af7a08-96cc-4e74-9187-954be8881728", "index":"2"}
+		,{"id": "d40b4ea5-79ba-483b-88bf-1aa4af3ab4c0", "index":"0"}
+		,{"id": "965359e2-5cae-4adb-b129-ffb698e60485", "index":"2"}
+		,{"id": "965359e2-5cae-4adb-b129-ffb698e60485", "index":"0"}
+		,{"id": "196d79c9-72fd-4002-a986-7a5aaf9b8ca2", "index":"1"}
 	]
-,	"Wringing Wyvern": [
+,	"Shademaw": [
 		{"id": "85c573d7-2cdf-43a9-85ba-f42642bf4f47", "index":"3"}
 		,{"id": "85c573d7-2cdf-43a9-85ba-f42642bf4f47", "index":"2"}
 		,{"id": "03a2e0f0-0e78-4772-8448-9731440cc43d", "index":"2"}
 		,{"id": "2199afb2-fdf9-42e4-8447-bbcb2272b0ee", "index":"0"}
+		,{"id": "984b55bf-b5a7-4a25-9fc5-02259acf2ebb", "index":"1"}
+		,{"id": "daa6b7c8-fdcf-4ec8-802a-6dd477e86ad5", "index":"2"}
+		,{"id": "4b8d1c9e-330c-46fd-ac72-b136abc7bf79", "index":"3"}
+		,{"id": "e7b96ab0-2dc6-467c-845d-3ea0adbd0be1", "index":"2"}
+		,{"id": "e7b96ab0-2dc6-467c-845d-3ea0adbd0be1", "index":"0"}
 	]
 ,	"Clawing Centipede": [
 		{"id": "ec0b3c0a-3f13-42a9-8ae5-ccd3a2bde246", "index":"0"}
 		,{"id": "b7288a40-3f0f-413c-b7e7-0bd65060a3f9", "index":"1"}
 		,{"id": "bf521d3a-8081-4e0f-803f-ab3292dfb2cf", "index":"1"}
+		,{"id": "536be7d1-2d21-45f4-bfdb-02a9b21c5e66", "index":"1"}
 	]
 ,	"Voidsinger": [
 		{"id": "1e1bd9f6-96ea-406f-974f-434655312d3b", "index":"3"}
 		,{"id": "f1211b88-62fa-426d-8d5c-1600fcd5f5df", "index":"0"}
 		,{"id": "3851d550-a918-4f53-b99a-bfc3302de693", "index":"0"}
+		,{"id": "0c9b53cd-fba5-4d00-8281-9e91de81aea9", "index":"2"}
+		,{"id": "d99cb0f7-fc12-4e74-a569-5fef07f85b4e", "index":"1"}
+		,{"id": "af6a0250-7732-4e39-bbac-1d3a31bcf23d", "index":"2"}
+		,{"id": "03f8c222-acef-4fe3-b41a-a19dc4b74217", "index":"2"}
 	]
-,	"Graverobbing Robot": [
+,	"Necroscourge": [
 		{"id": "aa9fce64-251f-4480-9658-e135cc083f2f", "index":"1"}
 		,{"id": "83ca19e2-2e10-4948-8314-32f44a89dd14", "index":"0"}
 		,{"id": "83ca19e2-2e10-4948-8314-32f44a89dd14", "index":"2"}
@@ -2083,30 +2126,39 @@
 	]
 ,	"Terrain #1": [
 		{"id": "eca69252-5ea5-4e4c-8019-528019d2d791", "index":"1"}
+		,{"id": "eca69252-5ea5-4e4c-8019-528019d2d791", "index":"1"}
 	]
 ,	"Terrain #2": [
 		{"id": "79d3e24f-d6cf-4769-9e12-c80626fe6998", "index":"1"}
+		,{"id": "79d3e24f-d6cf-4769-9e12-c80626fe6998", "index":"1"}
 	]
 ,	"Terrain #3": [
 		{"id": "5d05060b-90d2-498e-a31c-61d7573c6a6b", "index":"1"}
+		,{"id": "5d05060b-90d2-498e-a31c-61d7573c6a6b", "index":"1"}
 	]
 ,	"Terrain #4": [
 		{"id": "754bff8c-b781-4afb-85ec-bec3f03f5cad", "index":"3"}
+		,{"id": "754bff8c-b781-4afb-85ec-bec3f03f5cad", "index":"3"}
 	]
 ,	"Terrain #5": [
 		{"id": "5e3b38dd-eec2-40cb-aed7-8157f1fcacc3", "index":"1"}
+		,{"id": "5e3b38dd-eec2-40cb-aed7-8157f1fcacc3", "index":"1"}
 	]
 ,	"Terrain #6": [
 		{"id": "0bd57eba-c988-445d-b3af-0c4d82847fc3", "index":"1"}
+		,{"id": "0bd57eba-c988-445d-b3af-0c4d82847fc3", "index":"1"}
 	]
 ,	"Terrain #7": [
 		{"id": "73bfdae2-3e50-4d23-9c71-b130daca9f96", "index":"3"}
+		,{"id": "73bfdae2-3e50-4d23-9c71-b130daca9f96", "index":"3"}
 	]
 ,	"Terrain #8": [
 		{"id": "8235d30b-b3b6-425e-b229-bb896977b842", "index":"1"}
+		,{"id": "8235d30b-b3b6-425e-b229-bb896977b842", "index":"1"}
 	]
 ,	"Terrain #9": [
 		{"id": "65fbc250-77dd-4941-9eab-f8e05b96899b", "index":"1"}
+		,{"id": "65fbc250-77dd-4941-9eab-f8e05b96899b", "index":"1"}
 	]
 ,	"Sainkhu Groves": [
 		{"id": "c91d6de8-ac68-49c6-a128-6a50add11a95", "index":"0"}
