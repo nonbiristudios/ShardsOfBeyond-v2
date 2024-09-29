@@ -2,25 +2,30 @@
 	"Aethergolem": [
 	]
 ,	"Alabaster Exarch": [
-		{"id": "7c7b4c53-2f2b-49df-a6bf-37f29b9e5746", "index":"3"}
+		{"id": "37ce490c-658e-4c90-ba18-049b003b721c", "index":"2"}
+		,{"id": "ef01c9bd-62ee-47d0-9a0d-f71dd1728859", "index":"0"}
+		,{"id": "7c7b4c53-2f2b-49df-a6bf-37f29b9e5746", "index":"3"}
 		,{"id": "db52578b-cf61-4cc6-b730-21e3bd1752ce", "index":"3"}
 	]
 ,	"Ascendant Faithweaver": [
 	]
 ,	"Avenging Force": [
-		{"id": "22993c97-4c0e-4b20-b61e-0765854b1d0c", "index":"2"}
+		{"id": "b17742ef-4b86-40a8-b9da-bb34e3f85aad", "index":"3"}
+		,{"id": "b0a43d1e-e31f-4ce8-a11e-e0718705c99c", "index":"2"}
 		,{"id": "ea118e8b-a51b-4fd0-9ebb-45e0eb3a1fdd", "index":"3"}
 		,{"id": "ab240212-1a94-480e-8587-c4b045f6cc83", "index":"0"}
 		,{"id": "e23cb92e-67b8-407f-97b9-2fb3dffa6c7a", "index":"1"}
 		,{"id": "21b8a66c-7151-4179-9a76-80c4f8f76d0f", "index":"2"}
 	]
 ,	"Baby Lamassu": [
-		{"id": "b1e88fda-7d3b-4302-b0b0-4eee0012e193", "index":"1"}
+		{"id": "58acf20e-b015-4def-a402-f5ae770e346d", "index":"2"}
+		,{"id": "d58aecc2-2802-4dc4-8ed2-112862b4219b", "index":"2"}
+		,{"id": "b1e88fda-7d3b-4302-b0b0-4eee0012e193", "index":"1"}
 		,{"id": "675b4038-4ecb-4309-a56b-3f73fb074833", "index":"3"}
 		,{"id": "1bd0a0b3-130f-4bdc-9c15-509e1e9b90fa", "index":"3"}
 	]
 ,	"Blackmarble Gargoyle": [
-		{"id": "a408d92c-6e6e-4d30-93ad-e526a5c9555f", "index":"3"}
+		,{"id": "a408d92c-6e6e-4d30-93ad-e526a5c9555f", "index":"3"}
 		,{"id": "d68f1443-8bb6-4d68-94e0-2abd9c741c16", "index":"3"}
 		,{"id": "e1a293f6-3472-446e-b70e-7002f09b3c7c", "index":"3"}
 	]
@@ -66,6 +71,7 @@
 	]
 ,	"Feline Ushabti": [
 		{"id": "7b73514c-612c-4f7a-b7b0-8d03ff687646", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Guardian of the Gates": [
 		{"id": "13533eea-4c56-4787-a8d1-5b5de4d2fe40", "index":"0"}
@@ -76,9 +82,11 @@
 	]
 ,	"Hallowed Exorcist": [
 		{"id": "fb9ad282-f768-4726-b79b-f40c11d0277b", "index":"3"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Harmonic Echo": [
 		{"id": "2fb88f6b-7b37-40f3-9ddf-e46da64b9024", "index":"2"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Ibis Ushabti": [
 		{"id": "10569df3-af61-474e-9997-08b1211eac4b", "index":"3"}
@@ -87,6 +95,7 @@
 	]
 ,	"Maze Master Sphinx": [
 		{"id": "9ccceaff-97a6-4625-9bea-6567b85c04ef", "index":"0"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Ivoryscar Cursewing": [
 	]
@@ -96,22 +105,27 @@
 	]
 ,	"Mystic Puzzle Box": [
 		{"id": "0cf0be47-c57f-4feb-84e6-1790219ba54b", "index":"0"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Monolith of Meditation": [
 	]
 ,	"Oasis Sprite": [
 		{"id": "16fb7678-58aa-43f4-976c-6411d373341c", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Pharaoh's Bodyguard": [
 		{"id": "4e1424fd-a4dd-430d-b5db-da68488eb78a", "index":"0"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Scripture Monkey": [
 		{"id": "3321903a-a303-44ee-8b5d-3487bd693fa9", "index":"3"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Pyramidion": [
 	]
 ,	"Sekhem Chariot": [
 		{"id": "a6b9796b-edf3-4af3-9ed5-c8182508947e", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Obsidian Scarab": [
 		{"id": "5742c34c-4780-42a9-88f6-56a1b9ce53f4", "index":"0"}
@@ -134,6 +148,7 @@
 	]
 ,	"Tranquil Herd Gem Titan": [
 		{"id": "ed7547f6-59f6-4674-8e51-448f70e1a062", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Towering Obelisk of Xi": [
 	]
@@ -165,6 +180,7 @@
 	]
 ,	"Wrath of the Pharaoh": [
 		{"id": "557ea44c-dc30-4519-93c0-96caf2f97815", "index":"3"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Bringer of Good News": [
 		{"id": "c566f85c-bca2-4a6a-af88-429b68373805", "index":"1"}
@@ -209,6 +225,7 @@
 	]
 ,	"Crimson Flamechick": [
 		{"id": "0867635b-b993-4e89-adc9-840fac5e98ae", "index":"2"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"The Ascended One": [
 	]
@@ -218,19 +235,23 @@
 	]
 ,	"Thunderswarm Celestial": [
 		{"id": "496903ec-9e29-4e96-baed-fbc1c72e67a2", "index":"3"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"The Second Wing": [
 		{"id": "f92d2267-2cb6-459f-b8f4-07c280426a32", "index":"2"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Ivoryscar Fatebreaker": [
 	]
 ,	"Moon Priestess": [
 		{"id": "fe304cba-fe68-4bea-a089-694d2e71a394", "index":"2"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Airstep Sifu": [
 	]
 ,	"Moonspear Paladin": [
 		{"id": "4b963210-17ec-4cc9-9a83-f38a7692af0e", "index":"3"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Arcanum Grandmaster": [
 	]
@@ -240,11 +261,13 @@
 	]
 ,	"Glowing Gearhulk": [
 		{"id": "4efd2e1b-a113-49a0-8b09-a71768bc7f0a", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Boiling Blood Berserker": [
 	]
 ,	"Goat Oracle": [
 		{"id": "96dd861b-6cf4-403c-b701-35339b8bf72c", "index":"0"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Tranquil Herd Sagehorn": [
 		{"id": "eb74e363-ce23-4333-bf1a-9e45b5410528", "index":"3"}
@@ -253,6 +276,7 @@
 	]
 ,	"Sunblessed Crocodile": [
 		{"id": "85566897-5ef8-42df-8c72-36628a9dd9fc", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Kois of Duality": [
 		{"id": "e799950f-85b6-4223-b8ea-bc9ef93d3c23", "index":"1"}
@@ -1662,6 +1686,7 @@
 	]
 ,	"Cryptroach": [
 		{"id": "b6b028b1-6920-4dde-9694-73d589c7969e", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 	]
 ,	"Abyssal Silencer": [
 		{"id": "5190a1dd-f7bf-4e00-b502-3218c8396f35", "index":"0"}
@@ -1934,6 +1959,7 @@
 	]
 ,	"Eclipse Dragon": [
 		{"id": "537aae6e-8ea5-477b-af84-e4fd575571d9", "index":"1"}
+		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
 		,{"id": "35b3b0d5-f19b-454b-afb8-1c9e3ca5c237", "index":"2"}
 		,{"id": "53604f6e-a5f0-4ffd-8781-191a91af181c", "index":"3"}
 		,{"id": "22ed9dd0-ef61-4a2c-b520-80e30f3a0494", "index":"1"}
