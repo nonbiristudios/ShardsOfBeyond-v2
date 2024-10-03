@@ -25,31 +25,31 @@
 		,{"id": "1bd0a0b3-130f-4bdc-9c15-509e1e9b90fa", "index":"3"}
 	]
 ,	"Blackmarble Gargoyle": [
+		{"id": "4c17e8bf-32de-492d-90c0-96859b6146c1", "index":"1"}
+		,{"id": "51bab267-573b-4346-b294-5489aa2bc801", "index":"2"}
 		,{"id": "a408d92c-6e6e-4d30-93ad-e526a5c9555f", "index":"3"}
 		,{"id": "d68f1443-8bb6-4d68-94e0-2abd9c741c16", "index":"3"}
 		,{"id": "e1a293f6-3472-446e-b70e-7002f09b3c7c", "index":"3"}
 	]
 ,	"Chronosand Sphinx": [
 		{"id": "8c6c5803-34bd-4238-bf4b-5436f269949d", "index":"3"}
-		,{"id": "8cd82af3-98af-4579-a391-4f7b38a030da", "index":"2"}
-		,{"id": "95b04bf6-cd9b-4053-92a1-5231ba065df7", "index":"0"}
 	]
 ,	"Crusader of the Desert Winds": [
 	]
 ,	"Cryptosphinx": [
 		{"id": "250e747b-c7e8-4a5b-a483-65446cd307aa", "index":"2"}
-		,{"id": "95b04bf6-cd9b-4053-92a1-5231ba065df7", "index":"2"}
-		,{"id": "526cec67-13c3-48b9-b1a9-097b1eb420d3", "index":"2"}
 	]
 ,	"Damaged Automaton": [
-		{"id": "3644d9f4-a154-4538-96ea-489d6da10cda", "index":"2"}
-		,{"id": "3b251807-e5b8-4b8d-9143-bc8abc033018", "index":"0"}
-		,{"id": "3b251807-e5b8-4b8d-9143-bc8abc033018", "index":"1"}
+		{"id": "0d6f4af5-6c35-4b03-ba6d-cfe5d0273771", "index":"2"}
+		,{"id": "338f6d03-dc3c-483a-bba4-ec7292cc6c89", "index":"0"}
+		,{"id": "bab32ab3-f731-4d99-98cd-f6672f111af9", "index":"1"}
 	]
 ,	"Diviner of Fates": [
 		{"id": "9b1cd3ba-f0fb-43df-a5df-aa0555f184e0", "index":"0"}
 		,{"id": "7e6524d5-fc47-4a64-ac87-5ec5a5ddad4c", "index":"1"}
-		,{"id": "7e6524d5-fc47-4a64-ac87-5ec5a5ddad4c", "index":"3"}
+		,{"id": "fb78e5d0-7224-49a4-884b-cbbd75d19788", "index":"2"}
+		,{"id": "465cf9b7-817f-438c-8d9f-c129a7f0c7fe", "index":"1"}
+		,{"id": "ab2df850-35bd-440b-af3a-81e7cf260384", "index":"2"}
 	]
 ,	"Doma Angel": [
 		{"id": "e10bf9b3-3d4a-458c-b4e9-595c4cddd9bf", "index":"0"}
@@ -57,7 +57,7 @@
 	]
 ,	"Dove of Serenity": [
 		{"id": "bd138556-f391-44ec-ab68-5aa4b5a9f606", "index":"1"}
-		,{"id": "d65c6b1b-db21-491e-899d-20f6d9abe3c1", "index":"1"}
+		,{"id": "644699c3-f856-477a-9d3e-9a7ae724ac2c", "index":"0"}
 	]
 ,	"Dream Traveler": [
 		{"id": "1ae58892-c0c7-4cd2-b4f2-61e436a76acb", "index":"0"}
@@ -66,12 +66,11 @@
 	]
 ,	"Embalmed Apophis": [
 		{"id": "13499ec2-9a5a-4595-9ccd-fbcfe0fffeaf", "index":"0"}
-		,{"id": "75b3e3a2-a0e4-4742-8659-7ab7d6fcd85e", "index":"2"}
-		,{"id": "75b3e3a2-a0e4-4742-8659-7ab7d6fcd85e", "index":"3"}
+		,{"id": "a58bdcd9-2899-498b-899c-1fccd930ca3b", "index":"3"}
 	]
 ,	"Feline Ushabti": [
 		{"id": "7b73514c-612c-4f7a-b7b0-8d03ff687646", "index":"1"}
-		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
+		,{"id": "e0e4694e-7ae5-4729-927b-f692572c2eba", "index":"2"}
 	]
 ,	"Guardian of the Gates": [
 		{"id": "13533eea-4c56-4787-a8d1-5b5de4d2fe40", "index":"0"}
@@ -82,7 +81,9 @@
 	]
 ,	"Hallowed Exorcist": [
 		{"id": "fb9ad282-f768-4726-b79b-f40c11d0277b", "index":"3"}
-		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
+		,{"id": "871f4d83-c12d-43b9-b589-0ee0915a92ab", "index":"3"}
+		,{"id": "cd1e7095-bc44-4920-8584-150f9f483af6", "index":"3"}
+		,{"id": "cd0fcaa0-6d9c-4023-9ec4-9a2759ff7148", "index":"1"}
 	]
 ,	"Harmonic Echo": [
 		{"id": "2fb88f6b-7b37-40f3-9ddf-e46da64b9024", "index":"2"}
@@ -90,12 +91,13 @@
 	]
 ,	"Ibis Ushabti": [
 		{"id": "10569df3-af61-474e-9997-08b1211eac4b", "index":"3"}
+		,{"id": "778cdfec-4345-4320-a36c-27a12f37010d", "index":"0"}
 	]
 ,	"Herald of Eternal Grace": [
 	]
 ,	"Maze Master Sphinx": [
 		{"id": "9ccceaff-97a6-4625-9bea-6567b85c04ef", "index":"0"}
-		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
+		,{"id": "66b127eb-8262-4b5a-8e95-d04921322a97", "index":"1"}
 	]
 ,	"Ivoryscar Cursewing": [
 	]
@@ -105,7 +107,8 @@
 	]
 ,	"Mystic Puzzle Box": [
 		{"id": "0cf0be47-c57f-4feb-84e6-1790219ba54b", "index":"0"}
-		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
+		,{"id": "4a4e73cc-e448-4f24-9719-905a4b6fbe4f", "index":"2"}
+		,{"id": "42e4b009-fd3d-4ed3-815e-6fe7babe3739", "index":"3"}
 	]
 ,	"Monolith of Meditation": [
 	]
@@ -125,7 +128,8 @@
 	]
 ,	"Sekhem Chariot": [
 		{"id": "a6b9796b-edf3-4af3-9ed5-c8182508947e", "index":"1"}
-		,{"id": "1138a042-1b16-4232-80c2-52751351be2c", "index":"1"}
+		,{"id": "a032e829-8ebd-41b5-90e7-ef9a23dbda72", "index":"3"}
+		,{"id": "194018d3-696a-424b-b10c-2e8a97460e2a", "index":"1"}
 	]
 ,	"Obsidian Scarab": [
 		{"id": "5742c34c-4780-42a9-88f6-56a1b9ce53f4", "index":"0"}
