@@ -1527,10 +1527,10 @@
 		,{"id": "2f33e1b3-2e0e-4026-a457-bf83bf9f691d", "index":"0"}
 		,{"id": "80a1b34c-eee4-4dc4-b941-3a15ce682d1a", "index":"2"}
 	]
-,	"Duke of the Grove": [
-		{"id": "d88283a5-5792-42c5-aec4-2d68e2006546", "index":"0"}
+,	"Elder of the Grove": [
+		{"id": "79e268be-89fe-4d86-8c01-bf4357269e60", "index":"2"}
 		,{"id": "df435127-4535-4681-b89b-eec4ffa529c7", "index":"0"}
-		,{"id": "c5875f38-8c50-454f-8f24-5ca55ca271c4", "index":"1"}
+		,{"id": "ce1f4d8a-3d3e-4102-bcd7-fc0d51ac6af3", "index":"3"}
 		,{"id": "cdf9f2d4-9c5b-4463-889d-566fda0c3ba0", "index":"0"}
 		,{"id": "88105867-8090-4172-bfce-1b89be7bbf4d", "index":"3"}
 		,{"id": "d65799d4-2b4c-4a67-b3db-92ab18625712", "index":"1"}
@@ -1760,7 +1760,7 @@
 		,{"id": "b392fba2-9f4d-4b44-8089-24bd297605d2", "index":"3"}
 		,{"id": "2d9d297a-3f82-4914-a300-7c37c26ac936", "index":"0"}
 	]
-,	"Intrusive Ambassador": [
+,	"Intrusive Advisor": [
 		{"id": "9c727ff6-c46f-495a-8745-eb3feef08a58", "index":"2"}
 		,{"id": "3b94e074-2b90-4fa3-bb5b-c3a7d3664e1b", "index":"2"}
 		,{"id": "d14b775f-e7b0-42bf-a5a7-ee4e093d8287", "index":"2"}
